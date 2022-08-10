@@ -1,8 +1,8 @@
 {
-  "name": "reactjs_task",
+  "name": "niswey_reactjs_task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aariffulalam.github.io",
+  "homepage": "https://aariffulalam.github.io/Niswey-ReactJS-Task",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
